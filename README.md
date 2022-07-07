@@ -2,7 +2,7 @@
 - 👀 I’m interested in Termux
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shubhlabh.jignesh@gmail.comN
+- 📫 How to reach me shubhlabh.jignesh@gmail.com
 
 <!---
 JIGNESH176/JIGNESH176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
